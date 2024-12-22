@@ -56,15 +56,9 @@ class TextScramble {
 
 
 const phrases = [
-  '< ? >',
-  'What is it, what is it?',
-  'It belongs to you but is used by other people.',
-  'what is it?',
-  'answer me!',
-  'if you can answer',
-  'There s still a long way to go to find out the truth.',
-  'www.rataalada.com',
-  '< ? >',
+  'Thomas',
+  'Was',
+  'Here',
 ]
 
 
